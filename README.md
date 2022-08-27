@@ -1,4 +1,4 @@
-# jsprac
+# Javascript Practice / jsprac
 Javascript / HTML / CSS practice programs and webpages
 yeah
 literally
